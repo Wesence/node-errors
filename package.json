@@ -1,0 +1,8 @@
+{
+  "name": "errors",
+  "version": "0.0.1",
+  "devDependencies": {
+    "eslint": "^5.14.0",
+    "eslint-config-airbnb-base": "^13.1.0"
+  }
+}
