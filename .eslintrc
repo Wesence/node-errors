@@ -6,9 +6,6 @@
   "extends": [
     "airbnb-base"
   ],
-  "plugins": [
-    "prettier"
-  ],
   "rules": {
     "max-len": [
       1,
